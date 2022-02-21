@@ -20,6 +20,6 @@ int main()
     }
 
     cout<<"Factorial of "<<no;  
-    cout<<"is "<<fac<<endl;
+    cout<<" is "<<fac<<endl;
     return 0;
 }
