@@ -30,5 +30,6 @@ int main() {
 long Factorial(int no)
 long nCr(int n, int r)
 {
+  long nCr;
   return nCr;
 }
