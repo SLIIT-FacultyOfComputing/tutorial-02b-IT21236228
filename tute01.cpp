@@ -18,7 +18,8 @@ printf("Hello World") --> std::cout << "Hello World";
 */
 
 
-#include <stdio.h>
+#include <iostream>
+using namespace std;
 int main() 
 {
     float cm, inches;
