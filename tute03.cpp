@@ -19,7 +19,7 @@ int main()
         fac = fac * r;
     }
 
-    cout<<"Factorial of "<<num;  
+    cout<<"Factorial of "<<no;  
     cout<<"is "<<fac<<endl;
     return 0;
 }
