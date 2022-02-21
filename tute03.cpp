@@ -19,6 +19,7 @@ int main()
         fac = fac * r;
     }
 
-    cout<<"Factorial of <<no is <<fac"<<endl;  
+    cout<<"Factorial of "<<num;  
+    cout<<"is "<<fac<<endl;
     return 0;
 }
