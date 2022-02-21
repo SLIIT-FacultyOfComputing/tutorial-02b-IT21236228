@@ -31,5 +31,5 @@ int main() {
 long nCr(int n, int r)
 {
   
-  return nCr;
+    return factorial(n) / (factorial(r) * factorial(n - r));
 }
